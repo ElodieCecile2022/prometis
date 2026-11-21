@@ -1,0 +1,59 @@
+1
+00:00:00,600 --> 00:00:01,984
+Hello, I'm Camille.
+
+2
+00:00:02,334 --> 00:00:05,782
+Today, I'll show you how to spot a fake delivery text.
+
+3
+00:00:06,482 --> 00:00:08,282
+Here is a typical message.
+
+4
+00:00:08,632 --> 00:00:11,584
+First clue: it comes from an ordinary phone number.
+
+5
+00:00:11,934 --> 00:00:18,670
+Second clue: you're asked for a small sum. It's bait to get your card number.
+
+6
+00:00:19,020 --> 00:00:22,500
+Third clue: the link doesn't lead to the carrier's official website.
+
+7
+00:00:23,200 --> 00:00:24,664
+The right reflex?
+
+8
+00:00:25,014 --> 00:00:26,542
+Never click the link.
+
+9
+00:00:26,892 --> 00:00:31,188
+If you're expecting a parcel, check directly on the carrier's official website.
+
+10
+00:00:31,538 --> 00:00:37,098
+And report the message by forwarding it, free of charge, to 7726, in the UK and the US.
+
+11
+00:00:37,798 --> 00:00:39,070
+Already clicked?
+
+12
+00:00:39,420 --> 00:00:42,804
+If you entered your bank card details, block your card immediately.
+
+13
+00:00:43,154 --> 00:00:45,610
+Then keep a close eye on your accounts.
+
+14
+00:00:46,310 --> 00:00:49,086
+Remember: distrust is the mother of safety.
+
+15
+00:00:49,436 --> 00:00:53,100
+That was Camille, for Prometis. See you soon!

@@ -1,0 +1,14 @@
+Faux support technique : la fenêtre qui fait peur
+Prometis · vidéo de 1 min 10 s · voix de synthèse (SIWIS French Speech Synthesis Database, CC BY 4.0)
+
+TRANSCRIPTION
+
+Bonjour, je suis Camille. Aujourd'hui, parlons de la fausse alerte qui bloque votre ordinateur.
+
+Vous naviguez sur Internet. Soudain, une fenêtre envahit l'écran, avec une alarme. Elle annonce que votre ordinateur est infecté, et affiche un numéro à appeler. Au téléphone, un faux technicien prend le contrôle de votre ordinateur, puis vous fait payer une fausse réparation.
+
+Ce qu'il faut savoir. Les grands éditeurs de logiciels ne vous contactent jamais par ce type de fenêtre. Ce message vient d'une page Internet, pas de votre ordinateur. Fermez le navigateur. S'il reste bloqué, éteignez l'ordinateur, puis rallumez-le.
+
+Vous avez déjà appelé, ou laissé quelqu'un prendre la main sur votre ordinateur ? Désinstallez le logiciel qu'on vous a fait installer. Faites opposition si vous avez payé. Et changez vos mots de passe depuis un autre appareil. Vous trouverez de l'aide sur cybermalveillance.gouv.fr.
+
+Deux sûretés valent mieux qu'une. C'était Camille, pour Prometis. À bientôt !

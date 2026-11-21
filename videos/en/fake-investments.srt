@@ -1,0 +1,71 @@
+1
+00:00:00,600 --> 00:00:01,968
+Hello, I'm Camille.
+
+2
+00:00:02,318 --> 00:00:05,990
+Today: fake investments, those deals that are too good to be true.
+
+3
+00:00:06,690 --> 00:00:11,610
+It often starts with an ad on social media, featuring a well-known personality.
+
+4
+00:00:11,960 --> 00:00:15,664
+Sometimes, the video is faked with artificial intelligence.
+
+5
+00:00:16,014 --> 00:00:21,998
+You leave your details. A very friendly adviser calls you back, and offers you an exceptional investment.
+
+6
+00:00:22,698 --> 00:00:24,450
+Here are the telltale signs.
+
+7
+00:00:24,800 --> 00:00:27,880
+A high return, presented as guaranteed and risk-free.
+
+8
+00:00:28,230 --> 00:00:31,310
+Pressure to invest quickly, and more and more.
+
+9
+00:00:31,660 --> 00:00:34,868
+Gains shown on a website, but impossible to withdraw.
+
+10
+00:00:35,218 --> 00:00:38,730
+And when you try to get your money back, new fees to pay.
+
+11
+00:00:39,430 --> 00:00:43,966
+Remember the Crow and the Fox: every flatterer lives at the expense of those who listen.
+
+12
+00:00:44,316 --> 00:00:46,916
+A return that's too good to be true… is false.
+
+13
+00:00:47,616 --> 00:00:49,976
+Before investing, always check.
+
+14
+00:00:50,326 --> 00:00:56,110
+Check the regulator: the FCA Warning List in the UK, or Investor.gov in the US.
+
+15
+00:00:56,460 --> 00:00:58,340
+Ask your bank for advice.
+
+16
+00:00:58,690 --> 00:01:03,338
+And if someone offers to recover your lost money for a fee, it's another scam.
+
+17
+00:01:04,038 --> 00:01:06,094
+Distrust is the mother of safety.
+
+18
+00:01:06,444 --> 00:01:09,404
+That was Camille, for Prometis. See you soon!

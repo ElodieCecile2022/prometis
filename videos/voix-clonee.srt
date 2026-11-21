@@ -1,0 +1,47 @@
+1
+00:00:00,600 --> 00:00:02,785
+Bonjour, je suis Camille.
+
+2
+00:00:03,135 --> 00:00:07,468
+Aujourd'hui : quand l'intelligence artificielle imite la voix de vos proches.
+
+3
+00:00:08,168 --> 00:00:14,499
+Vous recevez un appel, ou un message vocal, d'un proche en détresse, depuis un numéro inconnu.
+
+4
+00:00:14,849 --> 00:00:19,704
+Sa voix est parfaitement imitée : quelques secondes d'enregistrement trouvées en ligne suffisent.
+
+5
+00:00:20,054 --> 00:00:24,271
+Il a un problème urgent, et il vous demande de l'argent, en secret.
+
+6
+00:00:24,971 --> 00:00:26,622
+Comment déjouer le piège ?
+
+7
+00:00:26,972 --> 00:00:31,131
+Raccrochez, et rappelez votre proche sur son numéro habituel.
+
+8
+00:00:31,481 --> 00:00:34,421
+Posez une question dont lui seul connaît la réponse.
+
+9
+00:00:34,771 --> 00:00:41,903
+Mieux encore : choisissez dès aujourd'hui, en famille, un mot de passe secret, à demander en cas d'urgence.
+
+10
+00:00:42,603 --> 00:00:46,413
+C'est la leçon du Loup et du Chevreau : montrez-moi patte blanche !
+
+11
+00:00:47,113 --> 00:00:49,194
+Deux sûretés valent mieux qu'une.
+
+12
+00:00:49,544 --> 00:00:52,742
+C'était Camille, pour Prometis. À bientôt !

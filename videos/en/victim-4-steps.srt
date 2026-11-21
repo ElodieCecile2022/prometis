@@ -1,0 +1,99 @@
+1
+00:00:00,600 --> 00:00:01,840
+Hello, I'm Camille.
+
+2
+00:00:02,190 --> 00:00:06,438
+If you're the victim of a scam, there's no need to feel ashamed: scammers are professionals.
+
+3
+00:00:06,788 --> 00:00:09,972
+What matters is acting fast. Here are four steps.
+
+4
+00:00:10,672 --> 00:00:11,992
+Step one: block.
+
+5
+00:00:12,342 --> 00:00:21,686
+Block your card straight away, using your banking app or the number on the back of your card. In the UK, you can also call 159 to reach your bank safely.
+
+6
+00:00:22,036 --> 00:00:26,204
+If you made a transfer, call your bank immediately to try to stop it.
+
+7
+00:00:26,554 --> 00:00:29,522
+Then change your passwords, starting with your email.
+
+8
+00:00:30,222 --> 00:00:32,582
+Step two: keep the evidence.
+
+9
+00:00:32,932 --> 00:00:36,396
+Don't delete anything: messages, emails, phone numbers.
+
+10
+00:00:36,746 --> 00:00:38,098
+Take screenshots.
+
+11
+00:00:38,448 --> 00:00:42,408
+And write down the date, the time, and what you were told.
+
+12
+00:00:43,108 --> 00:00:45,148
+Step three: report it.
+
+13
+00:00:45,498 --> 00:00:54,418
+In the UK, contact Report Fraud on 0300 123 2040, or at reportfraud.police.uk.
+
+14
+00:00:54,768 --> 00:01:03,976
+In the US, report it to the FTC at ReportFraud.ftc.gov, and online crime to the FBI at IC3.gov.
+
+15
+00:01:04,676 --> 00:01:06,844
+Step four: ask for a refund.
+
+16
+00:01:07,194 --> 00:01:11,186
+Write to your bank, without delay, to dispute the operations you didn't authorise.
+
+17
+00:01:11,536 --> 00:01:14,216
+In the UK, you have up to thirteen months to claim.
+
+18
+00:01:14,566 --> 00:01:18,430
+In the US, report it within sixty days of the statement that shows it.
+
+19
+00:01:18,780 --> 00:01:24,292
+If your bank refuses, make a formal complaint, then contact the ombudsman or the regulator.
+
+20
+00:01:24,992 --> 00:01:26,536
+You can also get help.
+
+21
+00:01:26,886 --> 00:01:32,046
+In the UK, Victim Support listens on 08 08 16 89 111, day and night.
+
+22
+00:01:32,396 --> 00:01:39,732
+In the US, the AARP Fraud Watch Network helpline answers on 877-908-3360, for everyone.
+
+23
+00:01:40,082 --> 00:01:45,322
+Finally, beware of anyone who promises to recover your money for a fee: that's another scam.
+
+24
+00:01:46,022 --> 00:01:48,766
+Remember: distrust is the mother of safety.
+
+25
+00:01:49,116 --> 00:01:51,948
+That was Camille, for Prometis. See you soon!

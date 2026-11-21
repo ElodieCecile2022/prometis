@@ -1,0 +1,59 @@
+1
+00:00:00,600 --> 00:00:02,774
+Bonjour, je suis Camille.
+
+2
+00:00:03,124 --> 00:00:06,783
+Aujourd'hui, je vous apprends à repérer un faux SMS de livraison.
+
+3
+00:00:07,483 --> 00:00:09,471
+Voici un message typique.
+
+4
+00:00:09,821 --> 00:00:13,551
+Premier indice : il vient d'un numéro de téléphone ordinaire.
+
+5
+00:00:13,901 --> 00:00:20,698
+Deuxième indice : on vous réclame une petite somme. C'est un appât pour obtenir votre numéro de carte.
+
+6
+00:00:21,048 --> 00:00:25,300
+Troisième indice : le lien ne mène pas au site officiel du transporteur.
+
+7
+00:00:26,000 --> 00:00:27,430
+Le bon réflexe ?
+
+8
+00:00:27,780 --> 00:00:29,873
+Ne cliquez jamais sur le lien.
+
+9
+00:00:30,223 --> 00:00:35,462
+Si vous attendez un colis, vérifiez directement sur le site officiel du transporteur.
+
+10
+00:00:35,812 --> 00:00:40,899
+Et signalez le message en le transférant gratuitement au 33700.
+
+11
+00:00:41,599 --> 00:00:43,390
+Vous avez déjà cliqué ?
+
+12
+00:00:43,740 --> 00:00:48,387
+Si vous avez saisi votre carte bancaire, faites opposition immédiatement.
+
+13
+00:00:48,737 --> 00:00:50,365
+Puis surveillez vos comptes.
+
+14
+00:00:51,065 --> 00:00:54,434
+Souvenez-vous : la méfiance est mère de la sûreté.
+
+15
+00:00:54,784 --> 00:00:58,203
+C'était Camille, pour Prometis. À bientôt !

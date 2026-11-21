@@ -1,0 +1,75 @@
+1
+00:00:00,600 --> 00:00:02,368
+Hello, I'm Camille.
+
+2
+00:00:02,718 --> 00:00:06,870
+Today: the fake bank adviser scam, one of the costliest scams around.
+
+3
+00:00:07,570 --> 00:00:10,898
+Your phone rings. The screen shows your bank's number.
+
+4
+00:00:11,248 --> 00:00:15,224
+On the line, a calm voice tells you there are suspicious payments on your account.
+
+5
+00:00:15,924 --> 00:00:22,140
+To “block” the fraud, you are asked to read out a code received by text, or to approve an operation in your banking app.
+
+6
+00:00:22,490 --> 00:00:25,538
+But that code blocks nothing: it approves a payment.
+
+7
+00:00:25,888 --> 00:00:28,456
+And that payment goes straight to the scammer.
+
+8
+00:00:29,156 --> 00:00:30,780
+There are other versions.
+
+9
+00:00:31,130 --> 00:00:34,594
+You may be asked to transfer your money to a so-called safe account.
+
+10
+00:00:34,944 --> 00:00:37,624
+Or to hand your card to a courier who comes to your home.
+
+11
+00:00:37,974 --> 00:00:40,590
+Or to install an app that gives access to your phone.
+
+12
+00:00:41,290 --> 00:00:47,042
+Remember just one thing: your bank will never ask you to approve an operation in order to cancel it.
+
+13
+00:00:47,392 --> 00:00:51,544
+If in doubt, hang up, and call back yourself on the number on the back of your card.
+
+14
+00:00:52,244 --> 00:00:54,972
+If you've already been caught out, act fast.
+
+15
+00:00:55,322 --> 00:01:04,650
+Block your card straight away, using your banking app or the number on the back of your card. In the UK, you can also call 159 to reach your bank safely.
+
+16
+00:01:05,000 --> 00:01:07,184
+Call your bank on its usual number.
+
+17
+00:01:07,534 --> 00:01:12,822
+Then report the fraud: to Report Fraud in the UK, or to the FTC in the US.
+
+18
+00:01:13,522 --> 00:01:16,138
+Remember: two safeguards are better than one.
+
+19
+00:01:16,488 --> 00:01:19,368
+That was Camille, for Prometis. See you soon!

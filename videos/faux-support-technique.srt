@@ -1,0 +1,59 @@
+1
+00:00:00,600 --> 00:00:02,669
+Bonjour, je suis Camille.
+
+2
+00:00:03,019 --> 00:00:07,364
+Aujourd'hui, parlons de la fausse alerte qui bloque votre ordinateur.
+
+3
+00:00:08,064 --> 00:00:13,688
+Vous naviguez sur Internet. Soudain, une fenêtre envahit l'écran, avec une alarme.
+
+4
+00:00:14,038 --> 00:00:19,022
+Elle annonce que votre ordinateur est infecté, et affiche un numéro à appeler.
+
+5
+00:00:19,372 --> 00:00:26,178
+Au téléphone, un faux technicien prend le contrôle de votre ordinateur, puis vous fait payer une fausse réparation.
+
+6
+00:00:26,878 --> 00:00:28,448
+Ce qu'il faut savoir.
+
+7
+00:00:28,798 --> 00:00:33,189
+Les grands éditeurs de logiciels ne vous contactent jamais par ce type de fenêtre.
+
+8
+00:00:33,539 --> 00:00:37,570
+Ce message vient d'une page Internet, pas de votre ordinateur.
+
+9
+00:00:37,920 --> 00:00:43,661
+Fermez le navigateur. S'il reste bloqué, éteignez l'ordinateur, puis rallumez-le.
+
+10
+00:00:44,361 --> 00:00:48,857
+Vous avez déjà appelé, ou laissé quelqu'un prendre la main sur votre ordinateur ?
+
+11
+00:00:49,207 --> 00:00:52,332
+Désinstallez le logiciel qu'on vous a fait installer.
+
+12
+00:00:52,682 --> 00:00:54,960
+Faites opposition si vous avez payé.
+
+13
+00:00:55,310 --> 00:01:01,817
+Et changez vos mots de passe depuis un autre appareil. Vous trouverez de l'aide sur cybermalveillance.gouv.fr.
+
+14
+00:01:02,517 --> 00:01:04,621
+Deux sûretés valent mieux qu'une.
+
+15
+00:01:04,971 --> 00:01:08,355
+C'était Camille, pour Prometis. À bientôt !

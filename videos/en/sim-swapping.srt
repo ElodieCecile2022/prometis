@@ -1,0 +1,71 @@
+1
+00:00:00,600 --> 00:00:01,888
+Hello, I'm Camille.
+
+2
+00:00:02,238 --> 00:00:06,678
+Today, I'll explain a little-known but formidable scam: SIM swapping.
+
+3
+00:00:07,378 --> 00:00:09,498
+Your SIM card is your phone number.
+
+4
+00:00:09,848 --> 00:00:13,600
+And your number receives the security codes your bank sends you by text.
+
+5
+00:00:14,300 --> 00:00:18,612
+SIM swapping is simple: a scammer pretends to be you with your mobile operator.
+
+6
+00:00:18,962 --> 00:00:20,986
+They get a new SIM card, in your name.
+
+7
+00:00:21,686 --> 00:00:25,470
+Your old card is deactivated: suddenly, your phone has no signal.
+
+8
+00:00:25,820 --> 00:00:30,508
+Meanwhile, the scammer receives your calls and your codes. They can empty your account.
+
+9
+00:00:31,208 --> 00:00:32,960
+How do they know your details?
+
+10
+00:00:33,310 --> 00:00:37,110
+Often through a fake text, a fake call, or a data leak.
+
+11
+00:00:37,810 --> 00:00:41,418
+Here are three reflexes to protect yourself.
+
+12
+00:00:41,768 --> 00:00:45,472
+One: never give personal information to someone who contacts you.
+
+13
+00:00:45,822 --> 00:00:50,326
+Two: ask your mobile operator what protections exist against SIM card changes.
+
+14
+00:00:50,676 --> 00:00:55,116
+Three: when possible, use an authenticator app rather than codes sent by text.
+
+15
+00:00:55,816 --> 00:00:59,520
+And if your phone suddenly has no signal for no reason?
+
+16
+00:00:59,870 --> 00:01:03,350
+Call your operator straight away from another phone, then your bank.
+
+17
+00:01:04,050 --> 00:01:06,858
+Remember: distrust is the mother of safety.
+
+18
+00:01:07,208 --> 00:01:10,040
+That was Camille, for Prometis. See you soon!

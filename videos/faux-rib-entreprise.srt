@@ -1,0 +1,75 @@
+1
+00:00:00,600 --> 00:00:02,797
+Bonjour, je suis Camille.
+
+2
+00:00:03,147 --> 00:00:08,664
+Aujourd'hui, je m'adresse aux entreprises : la fraude au faux RIB, et comment s'en protéger.
+
+3
+00:00:09,364 --> 00:00:13,570
+Un e-mail arrive, apparemment de l'un de vos fournisseurs habituels.
+
+4
+00:00:13,920 --> 00:00:18,636
+Il annonce un changement de banque, et transmet de nouvelles coordonnées bancaires.
+
+5
+00:00:18,986 --> 00:00:22,672
+L'adresse ressemble à la vraie. Et on vous demande de faire vite.
+
+6
+00:00:23,022 --> 00:00:29,888
+Les virements suivants partent alors sur le compte de l'escroc. Souvent, la messagerie du fournisseur a été piratée.
+
+7
+00:00:30,588 --> 00:00:33,528
+Une variante : la fraude au président.
+
+8
+00:00:33,878 --> 00:00:41,010
+Un faux dirigeant demande en urgence un virement exceptionnel et confidentiel, en dehors des procédures habituelles.
+
+9
+00:00:41,710 --> 00:00:44,220
+Voici la procédure à mettre en place.
+
+10
+00:00:44,570 --> 00:00:48,694
+Un : tout changement de coordonnées bancaires est confirmé par téléphone.
+
+11
+00:00:49,044 --> 00:00:54,921
+Deux : on appelle le numéro déjà connu du fournisseur, jamais celui indiqué dans le message.
+
+12
+00:00:55,271 --> 00:00:59,245
+Trois : les virements inhabituels sont validés par deux personnes.
+
+13
+00:00:59,595 --> 00:01:04,648
+Quatre : une demande urgente et confidentielle déclenche toujours une vérification.
+
+14
+00:01:05,348 --> 00:01:09,576
+Si un virement frauduleux est déjà parti, chaque minute compte.
+
+15
+00:01:09,926 --> 00:01:13,365
+Appelez immédiatement votre banque pour tenter de le rappeler.
+
+16
+00:01:13,715 --> 00:01:16,365
+Prévenez le fournisseur et votre direction.
+
+17
+00:01:16,715 --> 00:01:18,343
+Puis portez plainte.
+
+18
+00:01:19,043 --> 00:01:21,043
+Deux sûretés valent mieux qu'une.
+
+19
+00:01:21,393 --> 00:01:24,672
+C'était Camille, pour Prometis. À bientôt !

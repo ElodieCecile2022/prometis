@@ -1,0 +1,20 @@
+SIM swapping: when a scammer steals your phone number
+Prometis · 1 min 12 s video · synthetic voice “Southern English Female” (OpenSLR 83, CC BY-SA 4.0)
+
+TRANSCRIPT
+
+Hello, I'm Camille. Today, I'll explain a little-known but formidable scam: SIM swapping.
+
+Your SIM card is your phone number. And your number receives the security codes your bank sends you by text.
+
+SIM swapping is simple: a scammer pretends to be you with your mobile operator. They get a new SIM card, in your name.
+
+Your old card is deactivated: suddenly, your phone has no signal. Meanwhile, the scammer receives your calls and your codes. They can empty your account.
+
+How do they know your details? Often through a fake text, a fake call, or a data leak.
+
+Here are three reflexes to protect yourself. One: never give personal information to someone who contacts you. Two: ask your mobile operator what protections exist against SIM card changes. Three: when possible, use an authenticator app rather than codes sent by text.
+
+And if your phone suddenly has no signal for no reason? Call your operator straight away from another phone, then your bank.
+
+Remember: distrust is the mother of safety. That was Camille, for Prometis. See you soon!

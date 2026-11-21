@@ -1,0 +1,55 @@
+1
+00:00:00,600 --> 00:00:01,936
+Hello, I'm Camille.
+
+2
+00:00:02,286 --> 00:00:04,806
+Today: when the scam arrives by post.
+
+3
+00:00:05,506 --> 00:00:09,826
+You receive a letter with your bank's logo. It looks very official.
+
+4
+00:00:10,176 --> 00:00:15,448
+You're asked to scan a QR code, to reactivate your card, or secure your account.
+
+5
+00:00:15,798 --> 00:00:18,446
+A deadline pushes you to act fast.
+
+6
+00:00:18,796 --> 00:00:23,476
+The QR code leads to a fake website that imitates your bank's, and steals your login details.
+
+7
+00:00:24,176 --> 00:00:26,520
+The same trap exists in the street.
+
+8
+00:00:26,870 --> 00:00:32,206
+Fake QR codes are sometimes stuck on parking meters, to make you pay on a fake website.
+
+9
+00:00:32,906 --> 00:00:34,434
+The right reflexes.
+
+10
+00:00:34,784 --> 00:00:38,232
+For a letter, call your branch on the number you already know.
+
+11
+00:00:38,582 --> 00:00:42,830
+After scanning, always check the website address before typing anything.
+
+12
+00:00:43,180 --> 00:00:46,676
+And be wary of QR codes stuck over another one, or damaged.
+
+13
+00:00:47,376 --> 00:00:49,368
+Distrust is the mother of safety.
+
+14
+00:00:49,718 --> 00:00:52,502
+That was Camille, for Prometis. See you soon!
