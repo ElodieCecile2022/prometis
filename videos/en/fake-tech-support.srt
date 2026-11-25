@@ -55,5 +55,5 @@ And change your passwords from another device. Then report what happened.
 Two safeguards are better than one.
 
 15
-00:00:52,668 --> 00:00:55,596
-That was Camille, for Prometis. See you soon!
+00:00:52,668 --> 00:00:56,460
+That was Camille, for WhitePaw. See you soon!
